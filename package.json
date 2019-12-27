@@ -1,7 +1,7 @@
 {
   "name": "react-native-mobience",
   "title": "React Native Mobience",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mobience SDK react-native plugin",
   "main": "index.js",
   "scripts": {

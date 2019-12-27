@@ -4702,10 +4702,10 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
 
-react-native-mobience@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-mobience/-/react-native-mobience-1.0.1.tgz#d86ddb6725a3a30a52bd085af2dcfd0b680d0656"
-  integrity sha512-1lWw4kYHpBV1f6KMr8Bkh3jTOcg6vy1i7d1Ks36LAagEVn06lX8qRI+k3XxNaVjgu91pG9AkDGoG8qsyYSJCKQ==
+react-native-mobience@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-mobience/-/react-native-mobience-1.0.2.tgz#b5ad3fc2e2fd25e3f49a81587393eefcef1a3a2a"
+  integrity sha512-y6mtj/Wr/C6hcy4cVCO6nheO3qHpReePuAePx7r97ydeJ3IjU/arXCdMimbN8NXms5NvwPwQW6sb7T3yqtfbvQ==
 
 react-native@0.59:
   version "0.59.10"
