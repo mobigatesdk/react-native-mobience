@@ -10,7 +10,7 @@
   "dependencies": {
     "react": "16.8.3",
     "react-native": "0.59",
-    "react-native-mobience": "file:../"
+    "react-native-mobience": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
