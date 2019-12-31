@@ -64,10 +64,10 @@ protected List<ReactPackage> getPackages() {
 if (Platform.OS === 'android') {
 	Mobience.init("V0K6jhiIfem6CRWHYZ59Nmj3oFBBKbJsnSsWfR2JNq7ktblOUXwbJoBQTpWnw2uSwW76gpiu2kun50jweTY69B",
         {}, 
-		(initSuccess) => {
+	(initSuccess) => {
           console.log(initSuccess)
         }, 
-		(initError) => {
+	(initError) => {
           console.log(initError)
         })
     }
